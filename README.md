@@ -1,9 +1,6 @@
 Hi 👋 My name is Paulo
 ======================
 
-<a href="https://www.github.com/PauloRSL-arch" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/PauloRSL-arch?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -15,11 +12,3 @@ src="https://img.shields.io/github/followers/PauloRSL-arch?logo=github&style=for
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PauloRSL-arch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/paulo-leandro-255168288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PauloRSL-arch"><img src="https://github-readme-stats.vercel.app/api?username=PauloRSL-arch&show_icons=true&hide=&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PauloRSL-arch's GitHub stats" /></a>
-
-<a href="https://github.com/PauloRSL-arch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRSL-arch&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
